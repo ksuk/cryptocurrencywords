@@ -1,0 +1,2 @@
+# cryptocurrencywords
+辞書
